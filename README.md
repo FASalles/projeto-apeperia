@@ -1,2 +1,2 @@
 # projeto-apeperia
- Site em HTML e CSS puro
+ Site em HTML e CSS puro.
